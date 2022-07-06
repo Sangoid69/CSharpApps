@@ -7,3 +7,5 @@ App which will carry out the following;
 5) On close of app, event log opened so you can update your character sheet in DnD Beyond as required. 
 6) Step 5 subject to change if they ever bring out public API
 7) if API brought out, will be able to grab and update information on each click. 
+
+~ Look into how we can get the dice roll pulled ~
